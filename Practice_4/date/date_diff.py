@@ -6,4 +6,4 @@ date2 = datetime(2025, 6, 3, 15, 30, 0)
 difference = date2 - date1
 seconds = difference.total_seconds()
 
-print("Difference in seconds:", seconds)
+print(seconds)
