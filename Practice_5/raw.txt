@@ -1,0 +1,12 @@
+Super Store
+12/03/2026 14:35
+
+Milk            2.50
+Bread           1.99
+Eggs            3.49
+
+Subtotal        7.98
+Tax             0.64
+Total           8.62
+
+Payment Method: Credit Card
